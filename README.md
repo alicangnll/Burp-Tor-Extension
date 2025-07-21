@@ -74,5 +74,9 @@ To run this extension, you must have the following installed and configured:
       - Try running Tor manually from your command line to ensure the executable is not corrupted.
       - Check for any specific error messages in the **Extender -\> Extensions -\> Tor Proxy Manager -\> Errors** tab.
 
+## Disclaimer
+
+This tool has been developed for educational and professional security research purposes only. The software is provided "AS IS", without any warranty of any kind. All risks and responsibilities related to the use of this software belong to the user. The developer shall not be held liable for any direct or indirect damages that may arise from the use, misuse, or inability to use the software. All actions and their consequences resulting from the use of this tool are the sole responsibility of the user.
+
 ## 📄 License
 This project is licensed under the MIT License.
