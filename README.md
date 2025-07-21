@@ -39,7 +39,7 @@ To run this extension, you must have the following installed and configured:
       - Go to the **Extender -\> Extensions** tab.
       - Click the **"Add"** button.
       - In the "Extension Details" window, set the "Extension type" to **"Python"**.
-      - Click the **"Select file..."** button and choose the `TOR_Proxy_Burp_Extension.py` file from this project.
+      - Click the **"Select file..."** button and choose the `main.py` file from this project.
       - Click **"Next"**. If no errors appear in the "Errors" tab, the extension has been loaded successfully.
 
 ## 👨‍💻 Usage
